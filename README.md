@@ -9,7 +9,7 @@ The primary goal of this project is to compare the **accuracy** and **performanc
 ## Dataset
 
 We use the [FER2013 dataset](https://www.kaggle.com/code/sandragracenelson/emotion-recognition-using-facial-expressions/input?select=fer2013) for training and evaluating the models.  
-Due to storage constraints, the dataset is not included in this repository. Please download it directly from the linked Kaggle page.
+Due to storage constraints, the dataset is not included in this repository. Please download the fer2013.csv directly from the linked Kaggle page.
 
 Once downloaded, place the dataset in the `data/` folder or update the file paths in the code accordingly.
 
